@@ -16,7 +16,7 @@ Web api:
   
   /goods - return all goods
   
-  /goods/{goodsId} - return specific good
+  /goods/{goodId} - return specific good
   
   /orders - get orders
   
