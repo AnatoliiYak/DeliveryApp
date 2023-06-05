@@ -1,0 +1,34 @@
+#goods {
+    grid-template-columns: 1fr;
+}
+
+.good {
+    height: 200px;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    width: 550px;
+}
+
+.good > div {
+    padding-top: 20%;
+}
+
+.good > img {
+    height: 150px;
+    width: 300px;   
+}
+
+footer {
+    margin-top: 10px;
+    padding-left: 60%;
+    display: flex;
+    gap: 33%;
+}
+
+footer p {
+    font-size: 20px;
+}
+
+footer button {
+    width: 40%;
+}

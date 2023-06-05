@@ -1,0 +1,88 @@
+[{
+    "id":"1",
+    "shopId":"1",
+    "name": "Big Big Burger",
+    "img": "/img/1_1.jpg",
+    "price": "800"
+},
+{
+    "id":"2",
+    "shopId":"1",
+    "name": "Smal Burger",
+    "img": "/img/1_2.jpg",
+    "price": "500"
+},
+
+{
+    "id":"3",
+    "shopId":"1",
+    "name": "Medium Burger",
+    "img": "/img/1_3.jpg",
+    "price": "650"
+},
+
+{
+    "id":"4",
+    "shopId":"1",
+    "name": "Mc Donny Free",
+    "img": "/img/1_4.png",
+    "price": "350"
+},
+
+{
+    "id":"5",
+    "shopId":"2",
+    "name": "Big Sandwich",
+    "img": "/img/2_5.jpeg",
+    "price": "750"
+},
+
+{
+    "id":"6",
+    "shopId":"2",
+    "name": "Chicken",
+    "img": "/img/2_6.jpg",
+    "price": "1750"
+}
+,
+{
+    "id":"7",
+    "shopId":"2",
+    "name": "Ice cream",
+    "img": "/img/2_7.jpg",
+    "price": "350"
+},
+
+{
+    "id":"8",
+    "shopId":"3",
+    "name": "Banana cake",
+    "img": "/img/3_8.jpg",
+    "price": "450"
+},
+
+{
+    "id":"9",
+    "shopId":"3",
+    "name": "Carrot cake",
+    "img": "/img/3_9.jpg",
+    "price": "450"
+},
+
+{
+    "id":"10",
+    "shopId":"3",
+    "name": "Apple juice",
+    "img": "/img/3_10.jpg",
+    "price": "50"
+},
+
+{
+    "id":"11",
+    "shopId":"3",
+    "name": "Carrot juice",
+    "img": "/img/3_11.jpeg",
+    "price": "56"
+}
+
+]

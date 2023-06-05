@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Times New Roman', Times, serif;
+}
+
+nav > a {
+    text-align: center;
+    padding: 10px 30px 10px 30px;
+    color: blue;
+}
+
+nav {
+    margin-top: 30px;
+}
+nav > a:nth-child(1) {
+    border-right: solid black 2px;
+}
+
+main {
+    margin-top: 30px;
+    margin-right: 50px;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 15px;
+}
+
+#content {
+    margin-top: 30px;
+    margin-right: 50px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 15px;
+}
+
+#shops {
+    border-radius: 10px;
+    border: solid gray 1px;
+    padding: 10px 15px 10px 15px;
+    height: 500px;
+}
+
+#goods {
+    padding: 1% 1% 1% 10%;
+    border-radius: 10px;
+    border: solid gray 1px;
+    height: 500px;
+    display: grid;
+    grid-template-columns: 5fr 5fr;
+    gap: 5%;
+    overflow: scroll;
+}
+
+#shops h3 {
+    text-align: center;
+}
+
+.but {
+    border-radius: 5px;
+    border: solid gray 1px;
+    width: 150px;
+    height: 50px;
+    padding-left: 5px;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    padding-left: 5px;
+}
+
+.but:hover {
+    background-color: rgb(153, 205, 206);
+}
+
+.good {
+    border-radius: 10px;
+    border: solid gray 1px;
+    width: 400px;
+    height: 300px;
+}
+
+.good > img {
+    margin-top: 2%;
+    margin-left:10%;
+    width: 80%;
+    height: 65%;
+    margin-bottom: 1%;
+}
+
+.good > p {
+    margin-top: 1%;
+    margin-left: 10%;
+    margin-bottom: 1%;
+}
+
+.good > button {
+    margin-left: 65%;
+    height: 12%;
+    width: 30%;
+}
+
+#form {
+    padding-left: 5%;
+    padding-top: 1%;
+    border-radius: 10px;
+    border: solid gray 1px;
+}
+
+input {
+    width: 80%;
+}
