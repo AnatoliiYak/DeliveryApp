@@ -2,9 +2,9 @@
 You need to have node js and npm installed
 
 To run the app you should:
-  install all dependencies: npm install
-  start app: npm run start
-  go to browser - localhost:4567
+install all dependencies: npm install
+start app: npm run start
+go to browser - localhost:4567
   
 Web api:
   GET:
